@@ -80,7 +80,7 @@ const CartHeading = () => {
     <div className={styles.LastGrid}>
         {cart.map(item=>  
             <div key={item.id} className={styles.Fllex}>
-                <div >
+                <div className={styles.ICox}>
                     <img src={item.image_url} alt="" />
                 </div>
                 <div>
