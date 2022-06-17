@@ -1,0 +1,73 @@
+.Divided{
+    /* border:1px solid; */
+    margin-bottom: 60px;
+}
+.Part1 {
+  background-image: url("https://n.nordstrommedia.com/id/8f24f359-65da-495e-8ea2-364c50d8a31b.jpeg?h=200&w=1608");
+  height:200px;
+  width: 100%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+}
+.Part2 {
+  background-image: url("https://n.nordstrommedia.com/id/fdc43739-b821-46d0-ac0b-1f4523077d24.jpeg?h=200&w=1608");
+  height:200px;
+  width: 100%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+  display:flex;
+  font-weight: light;
+}
+
+.part1{
+   width:15%;
+}
+.part2{ 
+   width:38%;
+   padding-top:40px;
+   padding:20px;
+}
+.part2>div{
+   display: flex;
+   gap: 20px;
+}
+.part2>div p{
+   text-decoration: underline;
+}
+.part3{ 
+   width:47%;
+}
+
+@media only screen and (min-width:501px)  and (max-width:990px){
+
+.part1{
+   width:0%;
+}
+.part2{ 
+   width:60%;
+   padding-top:40px;
+   padding:10px;
+   
+}
+.part2>div{
+   display: flex;
+   gap: 20px;
+}
+.part3{ 
+   width:60%;
+}
+
+
+}
+
+@media only screen and (min-width:0px)  and (max-width:500px){
+.Divided{
+    display:none;
+}
+}
+
+
+
+

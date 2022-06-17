@@ -1,0 +1,43 @@
+.Forum{
+    width:420px;
+    margin: auto;
+    padding:20px;
+}
+.High{
+    margin-bottom: 15px;
+}
+.Touch{
+    width:100%;
+    background-color: #000000;
+    color:#ffffff;
+    padding:8px;
+    border:none;
+}
+.Lab{
+    font-size:15px;
+    color:#000000;
+    font-weight: light;
+}
+.Flx{
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+    /* border:1px solid; */
+    padding:7px 0px;
+    font-size:15px;
+}
+.Photo{
+    height:35px;
+    width:60%;
+    margin-bottom: 10px;
+}
+.bld{
+    font-weight: bold;
+    font-size: 14px;
+}
+.Back{
+    text-decoration: underline;
+}
+.Back:hover{
+    cursor:pointer;
+}

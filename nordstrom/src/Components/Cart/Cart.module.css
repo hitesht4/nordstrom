@@ -1,0 +1,140 @@
+.CartItem{
+    width:100%;
+    display:flex;
+    flex-wrap: wrap;
+    height:310px;
+    padding:20px;
+}
+.pic{
+    width:15%;
+    padding:5px;
+}
+.pic>img{
+    width:100%;
+    height:60%;
+}
+.Detail{
+    width:45%;
+    padding:20px;
+    color:black;
+    font-size: 14px;
+}
+.Oper{
+    display:flex;
+    width:80%;
+    justify-content: space-between;
+}
+.Oper>button{
+    border:none;
+    background-color: #ffffff;
+    color:#5b92c3 ;
+    font-weight: bold;
+}
+.Oper>button:hover{
+    text-decoration: underline;
+    color:#5b92c3 ;
+}
+.Operations{
+    width:35%;
+    display:flex;
+}
+.Deldiv{
+    text-align: center;
+    width:35%;
+    padding:20px;
+}
+
+.Selectdiv{
+    width:65%;
+    padding:20px;
+}
+.bold{
+    font-weight: bold;
+    font-family:"Montserrat", sans-serif;
+    color:#000000;
+}
+.filters_summary{
+border-top: 1px solid grey;
+display:grid;
+grid-template-columns: repeat(2,1fr);
+}
+.filters_summary>div{
+  padding:20px 40px;
+  font-size: 14px;
+}
+.Checkout{
+  width:100%;
+  padding:8px;
+  background-color: #000000;
+  color:#ffffff;
+  margin-top: 20px;
+}
+.Ico{
+    height:40px;
+    width:60%;
+}
+.Oper{
+    border:none;
+    background-color: #ffffff;
+    color:#5b92c3 ;
+    padding-left: 0 !important;
+}
+.Oper:hover{
+    text-decoration: underline;
+    color:#5b92c3 ;
+}
+.Total{
+  padding:20px;
+  width:100%;
+  border-bottom: 1px solid grey;
+  margin-bottom: 20px;
+}
+
+.Total>td{
+  padding:10px;
+  font-weight: bold;
+  font-size: 20px;
+  margin-bottom: 20px;
+  width:100%;
+}
+@media only screen and (min-width:501px)  and (max-width:990px){
+.Detail{
+    width:45%;
+    padding:20px;
+    color:black;
+    font-size: 10px;
+    line-height: 15px;  
+}
+.Operations{
+   flex-direction: column;
+}
+.filters_summary{
+border-top: 1px solid grey;
+display:grid;
+grid-template-columns: repeat(1,1fr);
+}
+}
+@media only screen and (min-width:0px)  and (max-width:500px){
+.Detail{
+    width:45%;
+    padding:20px;
+    color:black;
+    font-size: 10px;
+    line-height:15px;
+}
+.Operations{
+   flex-direction: column;
+}
+.CartItem{
+    width:100%;
+    display:flex;
+    flex-wrap: wrap;
+    height:400px;
+    padding:20px;
+}
+.filters_summary{
+border-top: 1px solid grey;
+display:grid;
+grid-template-columns: repeat(1,1fr);
+}
+}

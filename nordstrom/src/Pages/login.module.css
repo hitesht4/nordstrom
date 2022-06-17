@@ -1,0 +1,24 @@
+.control{
+    display:flex;
+    width:420px;
+    justify-content: space-between;
+    margin:auto;
+}
+.control>div{
+   flex:1;
+   text-align: center;
+   padding:20px;
+   font-size: 20px;
+   font-weight: bold;
+}
+.control>div:hover{
+  cursor:pointer;
+}
+.ContainerIn{
+    width:440px;
+    margin:60px auto;
+    background-color: white;
+}
+
+
+

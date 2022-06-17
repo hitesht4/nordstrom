@@ -1,24 +1,41 @@
-import logo from './logo.svg';
 import './App.css';
+import {Routes,Route} from 'react-router-dom';
+import Home from './Pages/Home';
+import Mens from './Pages/Mens';
+import Womens from './Pages/Womens';
+import Login from './Pages/Login';
+import Cart from './Pages/Cart';
+import SingleProduct from './Pages/SingleProduct';
+import Payment from './Pages/Payment';
+import Footer from './Components/Home/Footer';
+import RequiredAuth from './Pages/Hoc/RequiredAuth';
+import NotFound from './Pages/NotFound';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <>
+      <Routes>
+        <Route path="/login" element={<Login/>}/>
+        <Route path="/" element={<Home/>}/>
+        <Route path="/men" element={<Mens/>}/>
+        <Route path="/women" element={<Womens/>}/>
+        <Route path="singleProduct/:id" element={<SingleProduct/>}/>
+        <Route path="/*" element={<NotFound/>}/>
+        <Route path="/cart"
+        element={<RequiredAuth>
+                  <Cart/>
+                 </RequiredAuth>
+                }/>
+        <Route path="/payment" 
+        element={<RequiredAuth>
+                  <Payment/>
+                </RequiredAuth>}/>
+      </Routes>
+    <Footer/> 
+
+
+     
+    </>
   );
 }
 

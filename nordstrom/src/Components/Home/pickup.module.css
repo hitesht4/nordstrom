@@ -1,0 +1,50 @@
+.bgimage3 {
+  background-image: url("https://n.nordstrommedia.com/id/199745ce-b775-482a-aa3b-8b49e8bf0ff2.gif?h=200&w=1608");
+  height: 180px;
+  width: 100%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+  background-position: center center;
+  border-bottom: 8px solid #ff6418;
+}
+.bgimage3 > p {
+  position: absolute;
+  left: 37%;
+  top: 36.5%;
+  width: 41.04%;
+  font-size: 15px;
+}
+.bgimage3 > div {
+  position: absolute;
+  right: 1%;
+  top: 36.5%;
+  width: 41.04%;
+}
+@media only screen and (min-width:501px)  and (max-width:990px){
+.bgimage3 {
+  height: 130px;
+  width: 100%;
+  border-bottom: 6px solid #ff6418;
+}
+.bgimage3 > p {
+   display: none;
+}
+.bgimage3 > div {
+   display: none;
+}
+}
+
+@media only screen and (min-width:0px)  and (max-width:500px){
+.bgimage3 {
+  height: 100px;
+  width: 100%;
+  border-bottom: 6px solid #ff6418;
+}
+.bgimage3 > p {
+   display: none;
+}
+.bgimage3 > div {
+   display: none;
+}
+}

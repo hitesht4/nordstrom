@@ -1,0 +1,100 @@
+.Form{
+    width:100%;
+    margin:0px auto;
+    padding:10px 25px;
+    font-weight: light;   
+    border-top: 1px dotted grey;
+}
+.MainGrids{
+    display:grid;
+    width:64%;
+    margin:50px auto;
+    grid-template-columns: 65% 35%;
+    border-color: 1px dotted grey;
+}
+.Final{
+    padding:10px 20px;
+}
+
+.Diw{
+    width:100%;
+    padding-right:15px;
+}
+.Diw1{
+    width:100%;
+    padding-left:15px;
+}
+.Heating{
+    display:flex;
+    align-items: center;
+    margin-bottom: 10px;
+    gap:10px;
+}
+.Heating>div h4{
+    margin-top: 10px; 
+}
+.Num{
+    width:30px;
+    height:30px;
+    background-color: #000000;
+    color:#ffffff;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 50%;
+}
+.ICoo{
+    width:60px;
+    height:30px;
+}
+.Submit{
+    width:100%;
+    padding:10px;
+    border: none;
+    background-color: #000000;
+    color:#ffffff;
+}
+.Form2{
+    border-bottom: 1px dotted grey;
+    padding-bottom:20px;
+    margin-bottom:20px;
+}
+.Form3{
+    padding:20px;
+    text-align: center;
+    color: grey;
+    font-size: 15px;
+    border-bottom: 1px dotted grey;
+}
+.P_Footer{
+    padding:20px;
+    text-align: center;
+    color: grey;
+    font-size: 15px;
+}
+.Final{
+    background-color:#f4f4f4;
+}
+.dashed{
+    margin: 30px auto;
+    border-top: 1px solid grey;
+    border-bottom: 1px solid grey
+}
+@media only screen and (min-width:0px)  and (max-width:990px){
+.MainGrids{
+    display:grid;
+    width:100%;
+    margin:50px auto;
+    grid-template-columns: 1fr;
+    border-color: 1px dotted grey;
+}
+}
+@media only screen and (min-width:0px)  and (max-width:701px){
+.MainGrids{
+    display:grid;
+    width:100%;
+    margin:50px auto;
+    grid-template-columns: 1fr;
+    border-color: 1px dotted grey;
+}
+}

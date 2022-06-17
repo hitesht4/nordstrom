@@ -1,0 +1,1058 @@
+[
+  {
+      "id":101,
+      "image_url" : "https://n.nordstrommedia.com/id/sr3/573f2586-6614-46db-bacc-6da153d150da.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196",
+      "name": "Georgia Crewneck T-Shirt",
+      "price" : 5213,
+      "brand": "Polo",
+      "category" : "shirts",
+      "color" : "black",
+      "type":"m"
+      ,"ratings":3.1
+    },
+    {
+      "id":102,
+      "image_url" : "https://n.nordstrommedia.com/id/sr3/304e7560-046c-48f2-a755-b9de51f23c1f.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196",  
+      "name": "3-Stripes Cotton T-Shirt",
+      "price" : 2807,
+      "brand": "Adidas",
+      "category" : "shirts",
+      "color" : "white",
+      "type":"m"
+      ,"ratings":3.3
+    },
+    {
+      "id":103,
+      "image_url" : "https://n.nordstrommedia.com/id/sr3/d2b7e60f-bd63-46b3-8372-0356743501ea.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196",   
+      "name": "Corduroy Button-Up",
+      "price" : 3144,
+      "brand": "Topman",
+      "category" : "shirts",
+      "color" : "gold",
+      "type":"m"
+      ,"ratings":4.1
+    },
+    {
+      "id":104,
+      "image_url" : "https://n.nordstrommedia.com/id/sr3/b24060cc-409e-4165-abdf-72d8d1916e0f.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196",   
+      "name": "Stretch Cotton",
+      "price" : 3609,
+      "brand": "Polo",
+      "category" : "shirts",
+      "color" : "blue",
+      "type":"m"
+      ,"ratings":1.1
+    },
+    {
+      "id":105,
+      "image_url" : "https://n.nordstrommedia.com/id/sr3/66bf4401-cfc6-43bd-92fe-cd22cb3b20d5.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196",     
+      "name": "Space Dye Polo",
+      "price" : 3687,
+      "brand": "Polo",
+      "category" : "shirts",
+      "color" : "pink",
+      "type":"m"
+      ,"ratings":3.7
+    },
+    {
+      "id":106,
+      "image_url" : "https://n.nordstrommedia.com/id/sr3/3b3143d9-28c2-47f0-b747-0299efcb3ec4.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196",      
+      "name": "Long Sleeve Polo",
+      "price" : 5050,
+      "brand": "Polo",
+      "category" : "shirts",
+      "color" : "maroon",
+      "type":"m"
+      ,"ratings":3.6
+    },
+    {
+      "id":107,
+      "image_url" : "https://n.nordstrommedia.com/id/sr3/bdf44d0c-ff21-4a52-aad2-f10d7bfd672d.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196",
+      "name": "Trim Fit Cotton Dress Shirt",
+      "price" : 11554,
+      "brand": "Polo",
+      "category" : "shirts",
+      "color" : "white",
+      "type":"m"
+      ,"ratings":4.2
+    },
+    {
+      "id":108,
+      "image_url": "https://n.nordstrommedia.com/id/sr3/8d17aec1-a4f9-4840-97ad-bd91132009a8.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196",
+      "name": "Traditional Dress Shirt",
+      "price": 7456,
+      "brand": "Nordstrom",
+      "category": "shirts",
+      "color": "blue",
+      "type":"m"
+      ,"ratings":4.9
+    },
+    {
+      "id":109,
+      "image_url": "https://n.nordstrommedia.com/id/sr3/8c0af9c1-dc56-449e-99df-dbc898a3237d.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196",
+      "name": "Alf 5146 Flannel",
+      "price": 9654,
+      "brand": "Polo",
+      "category": "shirts",
+      "color": "blue",
+      "type":"m"
+      ,"ratings":2.9
+    },
+    {
+      "id":110,
+      "image_url": "https://n.nordstrommedia.com/id/sr3/a7eca1a5-f8af-4c1f-9a7e-3891c486a0c7.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196",
+      "name": "SundayButton-Up",
+      "price": 2465,
+      "brand": "Mavi Jeans",
+      "category": "shirts",
+      "color": "yellow",
+      "type":"m"
+      ,"ratings":2.6
+    },
+    {
+      "id":111,
+      "image_url": "https://n.nordstrommedia.com/id/sr3/bd739779-7654-4f53-bda3-77a134a3b73d.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196",
+      "name": "Cotton Button-Up Shirt",
+      "price": 1265,
+      "brand": "Polo",
+      "category": "shirts",
+      "color": "blue",
+      "type":"m"
+      ,"ratings":2.4
+    },
+    {
+      "id":112,
+      "image_url": "https://n.nordstrommedia.com/id/sr3/6b6be057-3488-49cf-9654-0cf7fb9b252e.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196",
+      "name": "Generation Stretch",
+      "price": 4569,
+      "brand": "Adidas",
+      "category": "shirts",
+      "color": "black",
+      "type":"m"
+      ,"ratings":4.4
+    },
+    {
+      "id":113,
+      "image_url": "https://n.nordstrommedia.com/id/sr3/f212db0c-1ab6-4c0d-bb00-6cfb10871de0.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196",
+      "name": "Knit Jogger Pajama Pants",
+      "price": 1563,
+      "brand": "Polo",
+      "category": "Loungewear",
+      "color": "white",
+      "type":"m"
+      ,"ratings":4.5
+    },
+    {
+      "id":114,
+      "image_url": "https://n.nordstrommedia.com/id/sr3/0711081e-e3e3-44b6-8099-54561301bc13.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196",
+      "name": "Microfiber Men's Robe",
+      "price": 8523,
+      "brand": "Polo",
+      "category": "Loungewear",
+      "color": "blue",
+      "type":"m"
+      ,"ratings":3.3
+    },
+    {
+      "id":115,
+      "image_url": "https://n.nordstrommedia.com/id/sr3/78541b30-671d-4349-bd67-25aadd1ce54e.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196",
+      "name": "Stripe Cotton Bathrobe",
+      "price": 7596,
+      "brand": "Adidas",
+      "category": "Loungewear",
+      "color": "yellow",
+      "type":"m"
+      ,"ratings":3.8
+    },
+    {
+      "id":116,
+      "image_url": "https://n.nordstrommedia.com/id/sr3/d9ba3a4f-ecba-4f47-ac8d-708151b91164.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196",
+      "name": "Plush Jacquard Robe",
+      "price": 4563,
+      "brand": "Nordstrom",
+      "category": "Loungewear",
+      "color": "grey",
+      "type":"m"
+      ,"ratings":2.8
+    },
+    {
+      "id":117,
+      "image_url": "https://n.nordstrommedia.com/id/sr3/f46b32ac-c58a-44d8-83ee-474cbd87726d.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196",
+      "name": "Robinson Robe",
+      "price": 5632,
+      "brand": "Adidas",
+      "category": "Loungewear",
+      "color": "black",
+      "type":"m"
+      ,"ratings":2.9
+    },
+    {
+      "id":118,
+      "image_url": "https://n.nordstrommedia.com/id/sr3/e255fe0d-ad27-4201-9fdd-057dc2529bca.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196",
+      "name": "Cotton Robe",
+      "price": 7896,
+      "brand": "Adidas",
+      "category": "Loungewear",
+      "color": "gold",
+      "type":"m"
+      ,"ratings":1.9
+    },
+    {
+      "id":119,
+      "image_url": "https://n.nordstrommedia.com/id/sr3/c73e74a5-5858-4260-8896-b261d9afb2cc.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196",
+      "name": "Peruvian Pima Cotton Robe",
+      "price": 4563,
+      "brand": "Adidas",
+      "category": "Loungewear",
+      "color": "black",
+      "type":"m"
+      ,"ratings":3.0
+    },
+    {
+      "id":120,
+      "image_url": "https://n.nordstrommedia.com/id/sr3/23669523-42b3-4a50-b7fc-680f01eb3a26.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196",
+      "name": "Plush Jacquard Robe",
+      "price": 4587,
+      "brand": "Nordstrom",
+      "category": "Loungewear",
+      "color": "red",
+      "type":"m"
+      ,"ratings":4.0
+    },
+    {
+      "id":121,
+      "image_url": "https://n.nordstrommedia.com/id/sr3/f095c4c1-6372-484a-9164-7c50345b3755.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196",
+      "name": "Comfort Waffle Robe",
+      "price": 6523,
+      "brand": "Adidas",
+      "category": "Loungewear",
+      "color": "blue",
+      "type":"m"
+      ,"ratings":4.5
+    },
+    {
+      "id":122,
+      "image_url": "https://n.nordstrommedia.com/id/sr3/f7d2a213-b1a8-404c-b612-fd174dcf9732.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196",
+      "name": "Flower Cotton Bathrobe",
+      "price": 1236,
+      "brand": "Adidas",
+      "category": "Loungewear",
+      "color": "white",
+      "type":"m"
+      ,"ratings":5.0
+    },
+    {
+      "id":123,
+      "image_url": "https://n.nordstrommedia.com/id/sr3/63c0913e-5ee1-4478-a512-36f093908ffc.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196",
+      "name": "Cashmere Crewneck Sweater",
+      "price": 7885,
+      "brand": "Nordstrom",
+      "category": "sweaters",
+      "color": "blue",
+      "type":"m"
+      ,"ratings":2.7
+    },
+    {
+      "id":124,
+      "image_url": "https://n.nordstrommedia.com/id/sr3/c400f39c-733e-498f-ad3c-97fe4b922a13.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196",
+      "name": "Men's Shop Regular Fit Cashmere Quarter Zip Pullover (Regular & Tall)",
+      "price": 5486,
+      "brand": "Nordstrom",
+      "category": "sweaters",
+      "color": "green"
+      ,"type":"m"
+      ,"ratings":2.4
+    },
+    {
+      "id":125,
+      "image_url": "https://n.nordstrommedia.com/id/sr3/d75e6735-a6ef-4ab1-8967-bdac7ae6d5a5.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196",
+      "name": "Stripe Panel Cardigan",
+      "price": 4578,
+      "brand": "Nike",
+      "category": "sweaters",
+      "color": "pink"
+      ,"type":"m"
+      ,"ratings":3.3
+    },
+    {
+      "id":126,
+      "image_url": "https://n.nordstrommedia.com/id/sr3/31e5b1b1-0a84-4d03-b219-6c85b14c10be.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196",
+      "name": "Rodd & Gunn Merrick Bay Sweater",
+      "price": 4563,
+      "brand": "Nike",
+      "category": "sweaters",
+      "color": "black"
+      ,"type":"m"
+      ,"ratings":4.1
+    },
+    {
+      "id":127,
+      "image_url": "https://n.nordstrommedia.com/id/sr3/2680ad74-7280-4a6f-af61-d493cfbd52f4.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196",
+      "name": "Men's Solid Turtleneck Sweater",
+      "price": 4589,
+      "brand": "Nike",
+      "category": "sweaters",
+      "color": "orange"
+      ,"type":"m"
+      ,"ratings":4.5
+    },
+    {
+      "id":128,
+      "image_url": "https://n.nordstrommedia.com/id/sr3/4da8598f-26eb-4630-86c4-5c1a5d37d38c.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196",
+      "name": "Crown Regular Fit Quarter Zip Pullover",
+      "price": 5125,
+      "brand": "Nike",
+      "category": "sweaters",
+      "color": "maroon"
+      ,"type":"m"
+      ,"ratings":3.5
+    },
+    {
+      "id":129,
+      "image_url": "https://n.nordstrommedia.com/id/sr3/99a672b7-8062-4289-83eb-abb9af799a2f.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196",
+      "name": "Mode Slim Fit Wool Sweater",
+      "price": 4566,
+      "brand": "Nike",
+      "category": "sweaters",
+      "color": "green"
+      ,"type":"m"
+      ,"ratings":2.5
+    },
+    {
+      "id":130,
+      "image_url": "https://n.nordstrommedia.com/id/sr3/ffdc6be5-a69d-4a53-8972-84df54c03fe3.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196",
+      "name": "Half Zip Cotton & Cashmere Pullover (Regular & Tall)",
+      "price": 1123,
+      "brand": "Nordstrom",
+      "category": "sweaters",
+      "color": "grey"
+      ,"type":"m"
+      ,"ratings":2.2
+    },
+    {
+      "id":131,
+      "image_url": "https://n.nordstrommedia.com/id/sr3/63beab63-d262-4315-9f91-1594d4918eb7.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196",
+      "name": "Waffle Texture Crewneck Sweater",
+      "price": 4456,
+      "brand": "Nike",
+      "category": "sweaters",
+      "color": "white"
+      ,"type":"m"
+      ,"ratings":3.2
+    },
+    {
+      "id":132,
+      "image_url": "https://n.nordstrommedia.com/id/sr3/b3dbbac5-4c20-492c-b960-9d0ee08194ad.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196",
+      "name": "Blackhall Wool Quarter Zip Sweater",
+      "price": 4455,
+      "brand": "Nike",
+      "category": "sweaters",
+      "color": "maroon"
+      ,"type":"m"
+      ,"ratings":4.2
+    },
+    {
+      "id":133,
+      "image_url": "https://n.nordstrommedia.com/id/sr3/e6f0fa4a-d7af-4049-99b4-65cee9f4e62b.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196",
+      "name": "Men'sSlim Fit Jeans",
+      "price": 4444,
+      "brand": "Topman",
+      "category": "Jeans",
+      "color": "black"
+      ,"type":"m"
+      ,"ratings":3.3
+    },
+    {
+      "id":134,
+      "image_url": "https://n.nordstrommedia.com/id/sr3/3cd19957-fa46-4b17-bdf5-babaf8051c7c.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196",
+      "name": "Skinny Stretch Jeans",
+      "price": 4456,
+      "brand": "Topman",
+      "category": "Jeans",
+      "color": "black"
+      ,"type":"m"
+      ,"ratings":4.3
+    },
+    {
+      "id":135,
+      "image_url": "https://n.nordstrommedia.com/id/sr3/9ca4a489-89ed-409a-8a1f-621c355fbb5e.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196",
+      "name": "Slim Fit Jeans",
+      "price": 11223,
+      "brand": "Topman",
+      "category": "Jeans",
+      "color": "blue"
+      ,"type":"m"
+      ,"ratings":1.3
+    },
+    {
+      "id":136,
+      "image_url": "https://n.nordstrommedia.com/id/sr3/e45e4250-d2ec-442c-bf13-72d18f341c1f.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196",
+      "name": "Men's Slim Fit Jeans",
+      "price": 5555,
+      "brand": "Topman",
+      "category": "Jeans",
+      "color": "grey"
+      ,"type":"m"
+      ,"ratings":2.3
+    },
+    {
+      "id":137,
+      "image_url": "https://n.nordstrommedia.com/id/sr3/f0de26a5-d80d-4457-9c1f-be1aa6450168.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196",
+      "name": "Stretch Cotton Jeans",
+      "price": 6666,
+      "brand": "Topman",
+      "category": "Jeans",
+      "color": "white"
+      ,"type":"m"
+      ,"ratings":3.9
+    },
+    {
+      "id":138,
+      "image_url": "https://n.nordstrommedia.com/id/sr3/b5d925db-e546-4562-a516-ddc2e23dedfc.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196",
+      "name": "Ripped Stretch Skinny Jeans",
+      "price": 4562,
+      "brand": "Topman",
+      "category": "Jeans",
+      "color": "balck"
+      ,"type":"m"
+      ,"ratings":4.9
+    },
+    {
+      "id":139,
+      "image_url": "https://n.nordstrommedia.com/id/sr3/0e247cf7-26fe-4915-b99c-4a9febcc2657.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196",
+      "name": "Athletic Fit Performance Stretch Jeans (Gates)",
+      "price": 5687,
+      "brand": "Nike",
+      "category": "Jeans",
+      "color": "blue"
+      ,"type":"m"
+      ,"ratings":2.9
+    },
+    {
+      "id":140,
+      "image_url": "https://n.nordstrommedia.com/id/sr3/1083119d-552c-41e4-a43d-540dad808967.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196",
+      "name": "Ripped Skinny Jeans (Grey)",
+      "price": 1235,
+      "brand": "Topman",
+      "category": "Jeans",
+      "color": "grey"
+      ,"type":"m"
+      ,"ratings":1.7
+    },
+    {
+      "id":141,
+      "image_url": "https://n.nordstrommedia.com/id/sr3/724761e8-4c6b-48e2-9426-b877eb8b4f55.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196",
+      "name": "Zach Straight Leg Jeans (Dark Blue Austin)",
+      "price": 1235,
+      "brand": "Mavi Jeans",
+      "category": "Jeans",
+      "color": "blue"
+      ,"type":"m"
+      ,"ratings":2.2
+    },
+    {
+      "id":142,
+      "image_url": "https://n.nordstrommedia.com/id/sr3/0a65d941-2682-4e3a-bb0e-3a58f874adc4.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196",
+      "name": "Transcend Lennox Slim Fit Jeans (Black Shadow)",
+      "price": 7777,
+      "brand": "Mavi Jeans",
+      "category": "Jeans",
+      "color": "black"
+      ,"type":"m"
+      ,"ratings":3.6
+    },
+    {
+      "id":143,
+      "image_url": "https://n.nordstrommedia.com/id/sr3/ca16d0e4-ed7c-4748-9698-6069a947f22c.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196",
+      "name": "Icon Bomber Jacket",
+      "price": 4568,
+      "brand": "Topman",
+      "category": "Jackets",
+      "color": "green"
+      ,"type":"m"
+      ,"ratings":3.2
+    },
+    {
+      "id":144,
+      "image_url": "https://n.nordstrommedia.com/id/sr3/b549c913-e044-4f62-9ef4-668c1ef4a495.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196",
+      "name": "Suffolk",
+      "price": 7456,
+      "brand": "Mavi Jeans",
+      "category": "Jackets",
+      "color": "blue"
+      ,"type":"m"
+      ,"ratings":3.4
+    },
+    {
+      "id":145,
+      "image_url": "https://n.nordstrommedia.com/id/sr3/dcb44bd1-ac55-4d8f-b138-1b5a6327e022.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196",
+      "name": "Hooded Jacket",
+      "price": 7456,
+      "brand": "Mavi Jeans",
+      "category": "Jackets",
+      "color": "balck",
+      "type":"m"
+      ,"ratings":3.8
+    },
+    {
+      "id":146,
+      "image_url": "https://n.nordstrommedia.com/id/sr3/32ce084f-1e28-43f4-bd0c-08b15be9da8b.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196",
+      "name": "Men's Classic Fit Denim Jacket",
+      "price": 1245,
+      "brand": "Topman",
+      "category": "Jackets",
+      "color": "blue",
+      "type":"m"
+      ,"ratings":1.1
+    },
+    {
+      "id":147,
+      "image_url": "https://n.nordstrommedia.com/id/sr3/8c5b0115-d425-4547-9949-b0b875b20f57.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196",
+      "name": "Nuptse Down Jacket",
+      "price": 7778,
+      "brand": "Mavi Jeans",
+      "category": "Jackets",
+      "color": "red",
+      "type":"m"
+      ,"ratings":1.5
+    },
+    {
+      "id":148,
+      "image_url": "https://n.nordstrommedia.com/id/sr3/bd57c344-cd48-439b-be5f-330a2085fe6f.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196",
+      "name": "Darien Cashmere Coat",
+      "price": 9999,
+      "brand": "Nordstrom",
+      "category": "Jackets",
+      "color": "black",
+      "type":"m"
+      ,"ratings":3.5
+    }, 
+  {
+    "id":1,
+    "image_url":
+      "https://n.nordstrommedia.com/id/sr3/fef6b7c3-f796-490c-aaf6-4e2dac717c1c.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196",
+   "name": "Love  Dress",
+    "price": 1170,
+    "brand": "Billabong",
+    "category": "dress",
+    "color": "blue",
+    "type":"w",
+    "ratings":4.1
+  },
+  {
+    "id":2,
+    "image_url":
+      "https://n.nordstrommedia.com/id/sr3/a2a45393-3c6d-432f-af63-8e1459ee8532.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196",
+   "name": "Ribbed Long Slipdress",
+    "price": 6256,
+    "brand": "SKIMS",
+    "category": "dress",
+    "color": "peach"
+      ,"type":"w",
+    "ratings":4.3
+  },
+  {
+    "id":3,
+    "image_url":
+      "https://n.nordstrommedia.com/id/sr3/6cd5fab0-1c5b-4e43-902b-5260a4d60fa3.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196",
+   "name": "Julian Off the Shoulder Jumpsuit",
+    "price": 5567,
+    "brand": "Dress the Population",
+    "category": "Jumpsuit",
+    "color": "black"
+      ,"type":"w",
+    "ratings":4.5
+  },
+  {
+    "id":4,
+    "image_url":
+      "https://n.nordstrommedia.com/id/sr3/2b2a1e39-98c9-4172-a9e9-641a4936a246.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196",
+   "name": "Tiffany One-Shoulder Midi Dress",
+    "price": 3056,
+    "brand": "Dress the Population",
+    "category": "dress",
+    "color": "black"
+      ,"type":"w",
+    "ratings":4.7
+  },
+  {
+    "id":5,
+    "image_url":
+      "https://n.nordstrommedia.com/id/sr3/4ebbce7a-9042-4c70-b6c4-f8d1e1e26e85.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196",
+   "name": "Twist Dress",
+    "price": 4956,
+    "brand": "ASTR the Label",
+    "category": "dress",
+    "color": "pink"
+      ,"type":"w",
+    "ratings":4.9
+  },
+  {
+    "id":6,
+    "image_url":
+      "https://n.nordstrommedia.com/id/sr3/4cb78914-ec8b-4ebe-b8b0-6b2d3db23073.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196",
+   "name": "DitsymMinidress",
+    "price": 2856,
+    "brand": "BP",
+    "category": "dress",
+    "color": "black"
+      ,"type":"w",
+    "ratings":4.2
+  },
+  {
+    "id":7,
+    "image_url":
+      "https://n.nordstrommedia.com/id/sr3/20eaba6f-84b9-4ea2-b1f0-7b0d0ef001e2.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196",
+   "name": "Taking Top",
+    "price": 1956,
+    "brand": "ASTR the Label",
+    "category": "top",
+    "color": "peach"
+      ,"type":"w",
+    "ratings":4.4
+  },
+  {
+    "id":8,
+    "image_url":
+      "https://n.nordstrommedia.com/id/sr3/23adb0db-eadd-42e2-898a-bd2728154cc8.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196",
+   "name": "Cotton Leggings",
+    "price": 1956,
+    "brand": "SKIMS",
+    "category": "bottom",
+    "color": "white"
+      ,"type":"w",
+    "ratings":4.6
+  },
+  {
+    "id":9,
+    "image_url":
+      "https://n.nordstrommedia.com/id/sr3/7e8409ee-ee4f-45ca-b6e0-4562f6ec928e.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196",
+   "name": "Floral  Neck Top",
+    "price": 3420,
+    "brand": "ASTR the Label",
+    "category": "top",
+    "color": "brown"
+      ,"type":"w",
+    "ratings":4.8
+  },
+  {
+    "id":10,
+    "image_url":
+      "https://n.nordstrommedia.com/id/sr3/76359753-3f30-49c4-a792-7fa8d4121f00.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196",
+   "name": "Floral black Legging",
+    "price": 4320,
+    "brand": "BP",
+    "category": "bottom",
+    "color": "black"
+      ,"type":"w",
+    "ratings":5.0
+  },
+  {
+    "id":11,
+    "image_url":
+      "https://n.nordstrommedia.com/id/sr3/685ea630-13ef-41dc-a3b9-21ad8b90b899.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196",
+   "name": "Oversized Puffer Jacket",
+    "price": 6336,
+    "brand": "BP",
+    "category": "jacket",
+    "color": "red"
+      ,"type":"w",
+    "ratings":3.1
+  },
+  {
+    "id":12,
+    "image_url":
+      "https://n.nordstrommedia.com/id/sr3/b972747a-37ab-4c47-b859-7a3732c4ee86.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196",
+   "name": "Hooded Quilted Water Repellent Jacket",
+    "price": 8012,
+    "brand": "Bernardo",
+    "category": "jacket",
+    "color": "red"
+      ,"type":"w",
+    "ratings":3.3
+  },
+  {
+    "id":13,
+    "image_url":
+      "https://n.nordstrommedia.com/id/sr3/359583ac-48fc-4534-958f-8c2cb14d9d17.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196",
+   "name": "Leather Moto Jacket",
+    "price": 17612,
+    "brand": "BILLABONG",
+    "category": "jacket",
+    "color": "black"
+      ,"type":"w",
+    "ratings":3.5
+  },
+  {
+    "id":14,
+    "image_url":
+      "https://n.nordstrommedia.com/id/sr3/6e4b8e93-6b08-4d53-b628-5096e1fdcd06.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196",
+   "name": "Water RCoat",
+    "price": 6809,
+    "brand": "BILLABONG",
+    "category": "jacket",
+    "color": "pink"
+      ,"type":"w",
+    "ratings":3.7
+  },
+  {
+    "id":15,
+    "image_url":
+      "https://n.nordstrommedia.com/id/sr3/fbb37e90-a537-44f2-b2cf-a5ba85bfebaf.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196",
+   "name": "Water Resistant Coat",
+    "price": 7860,
+    "brand": "BILLABONG",
+    "category": "jacket",
+    "color": "orange"
+      ,"type":"w",
+    "ratings":3.9
+  },
+  {
+    "id":16,
+    "image_url":
+      "https://n.nordstrommedia.com/id/sr3/62da176e-b9d5-437a-a775-4bdbf8992135.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196",
+   "name": "Long Hooded Vest",
+    "price": 10809,
+    "brand": "Bernardo",
+    "category": "jacket",
+    "color": "blue"
+      ,"type":"w",
+    "ratings":4.0
+  },
+  {
+    "id":17,
+    "image_url":
+      "https://n.nordstrommedia.com/id/sr3/e59b0ec0-93cc-4261-b075-b97049ee1122.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196",
+   "name": "Water Resistant  Vest",
+    "price": 5609,
+    "brand": "Bernardo",
+    "category": "jacket",
+    "color": "grey"
+      ,"type":"w",
+    "ratings":2.1
+  },
+  {
+    "id":18,
+    "image_url":
+      "https://n.nordstrommedia.com/id/sr3/6c42bf90-9349-42b2-9a01-585b4955e6cb.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196",
+   "name": "Side Miniskirt",
+    "price": 1153,
+    "brand": "Bernardo",
+    "category": "skirt",
+    "color": "black"
+      ,"type":"w",
+    "ratings":2.3
+  },
+  {
+    "id":19,
+    "image_url":
+      "https://n.nordstrommedia.com/id/sr3/8aff5009-9d4f-4eb7-af03-647b31d3c643.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196",
+   "name": "Flirty  Midi Skirt",
+    "price": 3173,
+    "brand": "Bernardo",
+    "category": "skirt",
+    "color": "white"
+      ,"type":"w",
+    "ratings":2.5
+  },
+  {
+    "id":20,
+    "image_url":
+      "https://n.nordstrommedia.com/id/sr3/6833b6e2-2aa0-4bc0-a0d8-4d79643691c7.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196",
+   "name": "Rylan Tank & Skirt",
+    "price": 11871,
+    "brand": "Bernardo",
+    "category": "skirt",
+    "color": "red"
+      ,"type":"w",
+    "ratings":2.7
+  },
+  {
+    "id":21,
+    "image_url":
+      "https://n.nordstrommedia.com/id/sr3/acde5ce1-0dec-4e7f-9464-a9f36bf00781.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196",
+   "name": "Carpenter Denim Miniskirt",
+    "price": 2041,
+    "brand": "BILLABONG",
+    "category": "skirt",
+    "color": "black"
+      ,"type":"w",
+    "ratings":2.9
+  },
+  {
+    "id":22,
+    "image_url":
+      "https://n.nordstrommedia.com/id/sr3/c0b6d8ac-d297-41df-aec9-8e347178ffd9.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196",
+   "name": "High Waist Midi Skirt",
+    "price": 4653,
+    "brand": "BILLABONG",
+    "category": "skirt",
+    "color": "brown"
+      ,"type":"w",
+    "ratings":2.2
+  },
+  {
+    "id":23,
+    "image_url":
+      "https://n.nordstrommedia.com/id/sr3/4b3d67b4-bdf0-4d10-922b-f5e4bba7d6d8.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196",
+   "name": "Strapless  Jumpsuit",
+    "price": 8662,
+    "brand": "SKIMS",
+    "category": "Jumpsuit",
+    "color": "brown"
+      ,"type":"w",
+    "ratings":2.4
+  },
+  {
+    "id":24,
+    "image_url":
+      "https://n.nordstrommedia.com/id/sr3/c189f46d-a4a7-482f-a3b5-1d37ef5a8e05.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196",
+   "name": "Sam Ruched Jumpsuit",
+    "price": 23100,
+    "brand": "SKIMS",
+    "category": "Jumpsuit",
+    "color": "blue"
+      ,"type":"w",
+    "ratings":2.6
+  },
+  {
+    "id":25,
+    "image_url":
+      "https://n.nordstrommedia.com/id/sr3/066aaf55-1bd0-4974-b23c-5e8dad15fc72.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196",
+   "name": "Strapless  Jumpsuit",
+    "price": 62537,
+    "brand": "SKIMS",
+    "category": "Jumpsuit",
+    "color": "white"
+      ,"type":"w",
+    "ratings":2.8
+  },
+  {
+    "id":26,
+    "image_url":
+      "https://n.nordstrommedia.com/id/sr3/1f927289-5b0e-4586-8050-f762f58396b4.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196",
+   "name": "Strapless Stripe Cover-Up Jumpsuit",
+    "price": 7940,
+    "brand": "SKIMS",
+    "category": "Jumpsuit",
+    "color": "grey"
+      ,"type":"w",
+    "ratings":3.0
+  },
+  {
+    "id":27,
+    "image_url":
+      "https://n.nordstrommedia.com/id/sr3/c189f46d-a4a7-482f-a3b5-1d37ef5a8e05.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196",
+   "name": "Sam Ruched Jumpsuit",
+    "price": 4365,
+    "brand": "SKIMS",
+    "category": "Jumpsuit",
+    "color": "blue"
+      ,"type":"w",
+    "ratings":2.0
+  },
+  {
+    "id":28,
+    "image_url":
+      "https://n.nordstrommedia.com/id/sr3/bd41e160-e569-40e4-a788-75ee98ee3047.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196",
+   "name": "Charisma Jumpsuit",
+    "price": 10781,
+    "brand": "SKIMS",
+    "category": "Jumpsuit",
+    "color": "green"
+      ,"type":"w",
+    "ratings":2.1
+  },
+  {
+    "id":29,
+    "image_url":
+      "https://n.nordstrommedia.com/id/sr3/5c4345d7-f62f-428c-b538-c094d178be55.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196",
+   "name": "One-Shoulde Top",
+    "price": 4732,
+    "brand": "ASTR the Label",
+    "category": "top",
+    "color": "peach"
+      ,"type":"w",
+    "ratings":2.3
+  },
+  {
+    "id":30,
+    "image_url":
+      "https://n.nordstrommedia.com/id/sr3/03c83aec-fa22-4ab5-8bc9-b76f4a71ea69.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196",
+   "name": "Rumpled Satin Blouse",
+    "price": 4732,
+    "brand": "ASTR the Label",
+    "category": "top",
+    "color": "yellow"
+      ,"type":"w",
+    "ratings":2.5
+  },
+  {
+    "id":31,
+    "image_url":
+      "https://n.nordstrommedia.com/id/sr3/698678c1-0644-458e-b1f9-0329d3b3b772.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196",
+   "name": "Patched colorblock Hoodie",
+    "price": 3761,
+    "brand": "ASTR the Label",
+    "category": "top",
+    "color": "green"
+      ,"type":"w",
+    "ratings":4.1
+  },
+  {
+    "id":32,
+    "image_url":
+      "https://n.nordstrommedia.com/id/sr3/c8be6c93-8fe2-4c81-b446-1f6ce2acc3d4.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196",
+   "name": "Rider  Jeans",
+    "price": 20963,
+    "brand": "NIKE",
+    "category": "bottom",
+    "color": "blue"
+      ,"type":"w",
+    "ratings":4.1
+  },
+  {
+    "id":33,
+    "image_url":
+      "https://n.nordstrommedia.com/id/sr3/22ce6a26-cdd2-4b6e-8424-ef58f06006c0.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196",
+   "name": "Women's Haydn Sweatpants",
+    "price": 3753,
+    "brand": "NIKE",
+    "category": "bottom",
+    "color": "pink"
+      ,"type":"w",
+    "ratings":4.1
+  },
+  {
+    "id":34,
+    "image_url":
+      "https://n.nordstrommedia.com/id/sr3/b86a2eb9-6302-4fe3-982d-57d1f964adfa.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196",
+   "name": "Yoga Tights",
+    "price": 5374,
+    "brand": "NIKE",
+    "category": "bottom",
+    "color": "black"
+      ,"type":"w",
+    "ratings":4.1
+  },
+  {
+    "id":35,
+    "image_url":
+      "https://n.nordstrommedia.com/id/sr3/fe5ede02-8e7d-40b4-ab9a-d06ae97e7e24.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196",
+   "name": "Moto  Leggings",
+    "price": 6400,
+    "brand": "NIKE",
+    "category": "bottom",
+    "color": "peach"
+      ,"type":"w",
+    "ratings":1.1
+  },
+  {
+    "id":36,
+    "image_url":
+      "https://n.nordstrommedia.com/id/sr3/7ecf64c8-b825-4b58-85a4-c5df9264e7c6.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196",
+   "name": "Drawstring Joggers",
+    "price": 2670,
+    "brand": "NIKE",
+    "category": "bottom",
+    "color": "grey"
+      ,"type":"w",
+    "ratings":1.3
+  },
+  {
+    "id":37,
+    "image_url":
+      "https://n.nordstrommedia.com/id/sr3/278d6c61-9f40-4af4-aff1-63712fa4bcf1.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196",
+   "name": "Looker Ankle Skinny Jeans",
+    "price": 1800,
+    "brand": "NIKE",
+    "category": "bottom",
+    "color": "blue"
+      ,"type":"w",
+    "ratings":1.5
+  },
+  {
+    "id":38,
+    "image_url":
+      "https://n.nordstrommedia.com/id/sr3/44417c7e-97fb-4ca2-b2d6-a0d6ac0e4edf.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196",
+   "name": "Parker  Shorts",
+    "price": 12000,
+    "brand": "AGOLDE",
+    "category": "shorts",
+    "color": "blue"
+      ,"type":"w",
+    "ratings":1.7
+  },
+  {
+    "id":39,
+    "image_url":
+      "https://n.nordstrommedia.com/id/sr3/1abfb8a0-abb4-4c0a-a8b2-ce6420774440.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196",
+   "name": "Taylor  Shorts",
+    "price": 3890,
+    "brand": "AGOLDE",
+    "category": "shorts",
+    "color": "grey"
+      ,"type":"w",
+    "ratings":1.9
+  },
+  {
+    "id":40,
+    "image_url":
+      "https://n.nordstrommedia.com/id/sr3/e8f25f5f-d85d-449d-906f-3ab518b79657.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196",
+   "name": "Raw ETank",
+    "price": 1601,
+    "brand": "AGOLDE",
+    "category": "top",
+    "color": "orange"
+      ,"type":"w",
+    "ratings":1.2
+  },
+  {
+    "id":41,
+    "image_url":
+      "https://n.nordstrommedia.com/id/sr3/2fa8a0f8-cfa6-4fab-82b4-888e17e836b3.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196",
+   "name": "Sportswear  Dress",
+    "price": 3690,
+    "brand": "AGOLDE",
+    "category": "top",
+    "color": "orange"
+      ,"type":"w",
+    "ratings":1.3
+  },
+  {
+    "id":42,
+    "image_url":
+      "https://n.nordstrommedia.com/id/sr3/fb139c2f-f4fc-47a0-bbbd-702e63756e7b.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196",
+   "name": "Flirty Vibe Crop Top",
+    "price": 1684,
+    "brand": "AGOLDE",
+    "category": "top",
+    "color": "orange"
+      ,"type":"w",
+    "ratings":1.8
+  },
+  {
+    "id":43,
+    "image_url":
+      "https://n.nordstrommedia.com/id/sr3/325061c7-0d64-482f-b4df-6b5cd237775d.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196",
+   "name": "Tie Front Top",
+    "price": 3500,
+    "brand": "AGOLDE",
+    "category": "top",
+    "color": "black"
+      ,"type":"w",
+    "ratings":4.2
+  },
+  {
+    "id":44,
+    "image_url":
+      "https://n.nordstrommedia.com/id/sr3/b1000b4c-5765-4e86-8c60-0602cd284f62.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196",
+   "name": "U-Neck Tank",
+    "price": 2356,
+    "brand": "AGOLDE",
+    "category": "top",
+    "color": "grey"
+    ,"type":"w",
+    "ratings":4.3
+  }
+]

@@ -1,0 +1,65 @@
+.Form{
+    width:50%;
+    margin:100px auto;
+    padding:25px;
+    border:1px solid;
+}
+.Diw{
+    width:100%;
+    padding-right:15px;
+}
+.Diw1{
+    width:100%;
+    /* padding:20px; */
+    padding-left:15px;
+}
+.Heating{
+    display:flex;
+    align-items: center;
+    margin-bottom: 10px;
+    gap:10px;
+}
+.Heating>div h4{
+    margin-top: 10px; 
+}
+.Num{
+    width:30px;
+    height:30px;
+    background-color: #000000;
+    color:#ffffff;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 50%;
+}
+.Detailss{
+  display:flex;
+  width:100%;
+  margin:auto;
+}
+.Detailss>div{
+  width:50%;
+  padding: 10px 20px;
+  margin:auto;
+  font-size:14px !important;
+  height:180px;
+  
+}
+.Detailss h6{
+  font-weight: bold;
+}
+.Bag{
+  display:flex;
+  flex-direction: column;
+  width:100%;
+  margin:auto;
+  margin-bottom: 0px;
+  padding:10px 25px;
+  border-top: 1px dotted grey;
+  margin-top: 50px;
+}
+.Change{
+    border:none;
+    background-color: #ffffff;
+    color: #3f84bd;
+}

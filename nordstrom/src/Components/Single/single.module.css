@@ -1,0 +1,161 @@
+.One{
+    width:90%;
+    height:700px;
+    margin:20px auto;
+    display:grid;
+    grid-template-columns:repeat(3,1fr);
+}
+.One>div{
+    height:100%;
+    padding:20px;
+}
+.One>div:hover{
+    cursor: crosshair;
+}
+img{
+    width:100%;
+    height:100%;
+}
+.select{
+    padding:10px;
+    width:100%;
+    margin-top: 10px;
+}
+.select:hover{
+  border-bottom: 1px solid grey;
+}
+.ratings{
+    font-weight: bold !important;
+}
+.thr{
+    color: #000000;
+    font-family: Brandon Text,Arial,sans-serif;
+}
+.thr:hover{
+    cursor: pointer !important;
+}
+.light{
+    font-weight: light;
+    font-size: 13px;
+    color: grey;
+}
+.name{
+    font-weight: bold;
+    font-size:20px;
+    font-family: robotto,sans-Sarif;
+}
+.Cart{
+    width:100%;
+    background-color: #000000;
+    color:white;
+    padding:10px;
+    border: none;
+    margin-bottom: 20px;
+    display:flex;
+    justify-content: center;
+    gap:10px;
+    align-items: center;
+}
+.hidden{
+    display:none;
+}
+.Cart2{
+    width:100%;
+    background-color:red;
+    color:white;
+    padding:10px;
+    border: none;
+    margin-bottom: 20px;
+    display:flex;
+    justify-content: center;
+    gap:10px;
+    align-items: center; 
+}
+.Brand{
+    font-weight: bolder;
+    color: grey;
+}
+.Price{
+    font-size: 22px;
+    font-weight: bold !important;
+}
+.red{
+    color: red;
+    font-size: 13px;
+    margin-top: 4px;
+}
+.colors{
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+    padding:5px 10px;
+    margin-bottom: 20px;
+}
+.color_c{
+    border-radius: 50%;
+    border: 1px solid grey;
+    width:44px;
+    height:44px;
+    padding:5px;
+}
+.color_c:hover{
+    border: 1px solid #000000;
+    cursor: pointer;
+
+}
+.color_c>div{
+    border-radius: 50%;
+    width:32px;
+    height:32px;
+}
+.o{
+    background-color:#bc997d;
+}
+.t{
+    background-color:#e8e7de;
+}
+.th{
+    background-color:#2e303f;
+}
+.f{
+    background-color:#c4c9dd;
+}
+.fi{
+    background-color:#dcdedd;
+}
+.si{
+    background-color:#6f6a70;
+}
+@media only screen and (min-width:501px)  and (max-width:990px){
+.One{
+    width:90%;
+    height:700px;
+    margin:20px auto;
+    display:grid;
+    grid-template-columns:1fr;
+}
+.two,.Im{
+    display: none;
+}
+}
+@media only screen and (min-width:0px)  and (max-width:500px){
+.One{
+    width:90%;
+    height:700px;
+    margin:20px auto;
+    display:grid;
+    grid-template-columns:repeat(1,1fr);
+}
+
+.two{
+    display: none;
+}
+.Im{
+    display:none;
+}
+.select{
+    padding:10px;
+}
+
+}
+

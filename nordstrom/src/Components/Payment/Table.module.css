@@ -1,0 +1,27 @@
+.Table{
+  padding:20px;
+  width:100%;
+}
+.Table td{
+ 
+    width:33%;
+    padding:10px;
+    font-size: 14px; 
+    text-align: center;
+    font-style: italic;
+    font-weight: bold;
+}
+.Tbody tr:hover{
+    box-shadow: rgba(36, 36, 150, 0.2) 0px 7px 29px 0px;
+    cursor:pointer;
+}
+.T{
+  padding:20px;
+  width:100%;
+}
+.Tbody td{
+   color:grey;
+}
+.Thead>tr{
+    background-color: whitesmoke;
+}

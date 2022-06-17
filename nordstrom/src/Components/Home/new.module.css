@@ -1,0 +1,114 @@
+.Grid{
+    display:grid;
+    grid-template-columns:repeat(3,1fr);
+}
+.Cont{
+    border-top: 2px solid;
+    margin-bottom: 80px;
+}
+.Grid>div{
+    padding:10px;
+}
+.PICC{
+   width:100%;
+   height:80%;
+}
+.deta{
+    text-align: start;
+    margin-top: 5px;
+}
+.deta >div{
+    width:100%;
+    gap:30px;
+    text-decoration: underline;
+}
+.deta>div p{
+    font-size: 15px;
+    color: #393939;
+    text-decoration: underline;
+}
+.Heading{
+    text-align: center;
+    padding: 45px;
+}
+.Heading2{
+    text-align: center;
+    padding: 30px;
+    font-size: 15px;
+}
+.Heading2 p:nth-child(3){
+    text-decoration: underline;
+}
+@media only screen and (min-width:501px)  and (max-width:990px){
+.Grid{
+    display:grid;
+    grid-template-columns:repeat(2,1fr);
+}
+.Heading{
+    text-align: center;
+    padding:25px;
+    font-size:22px;
+}
+.Cont{
+    border-top: 2px solid;
+    margin-bottom:50px;
+    font-size: 20px;
+    padding:10px;
+}
+.deta>h4{
+    font-size:22px;
+}
+.deta>p{
+    font-size:14px;
+}
+.Grid>div{
+    padding:8px;
+}
+.deta>div p{
+    font-size:12px;
+}
+.deta >div{
+    gap:14px;  
+}
+.PICC{
+   width:100%;
+   height:65%;
+}
+}
+
+@media only screen and (min-width:0px)  and (max-width:500px){
+ .Grid{
+    display:grid;
+    grid-template-columns:repeat(1,1fr);
+}
+.Heading{
+    text-align: center;
+    padding:25px;
+    font-size:22px;
+}
+.Cont{
+    border-top: 2px solid;
+    margin-bottom:40px;
+    font-size: 20px;
+    padding:10px;
+}
+.deta>h4{
+    font-size:22px;
+}
+.deta>p{
+    font-size:14px;
+}
+.Grid>div{
+    padding:8px;
+}
+.deta>div p{
+    font-size:12px;
+}
+.deta >div{
+    gap:14px;  
+}
+.PICC{
+   width:100%;
+   height:65%;
+}
+}

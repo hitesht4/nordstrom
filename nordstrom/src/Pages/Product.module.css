@@ -1,0 +1,29 @@
+.Maindiv{
+    display:grid;
+    grid-template-columns:20% 80%;
+    margin:30px auto;
+    width:95%;
+    grid-gap:20px;
+}
+.Div1{
+    width:100%;
+}
+.All{
+    width:100%;
+}
+.Drawer{
+  position:sticky;
+  top:0;
+  width:auto;
+}
+@media only screen and (min-width:501px)  and (max-width:990px){
+.Maindiv{
+    grid-template-columns:30% 70%;
+}
+}
+
+@media only screen and (min-width:0px)  and (max-width:500px){
+.Maindiv{
+    grid-template-columns:35% 65%;
+}
+}

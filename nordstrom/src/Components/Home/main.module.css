@@ -1,0 +1,68 @@
+.Btn{
+  background-image: url("https://n.nordstrommedia.com/id/3fcc89c6-9b6b-429a-9903-83510366c74c.jpeg?h=129&w=1608");
+  height:140px;
+  width: 100%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+  text-align: center;
+  font-weight: light;
+  padding:25px;
+}
+.button{
+  border:1px solid;
+  margin:10px;
+  padding:10px;
+  font-weight: light;
+  font-size: 16px;
+  background-color: white;
+}
+.button:hover{
+    background:rgba(230, 226, 226, 0.881);
+    border:none;
+}
+.Highlight{
+    width:100%;
+    margin-bottom:60px;
+    background-color:#f6f5ec;
+}
+
+
+@media only screen and (min-width:501px)  and (max-width:990px){
+.Btn{
+  height:180px;
+  width: 100%;
+  padding:15px;
+}
+.button{
+  border:1px solid;
+  margin:5px;
+  padding:5px;
+  font-weight: light;
+  font-size:12px;
+  background-color: white;
+}
+.Highlight{
+    margin-bottom:50px;
+}
+
+}
+
+@media only screen and (min-width:0px)  and (max-width:500px){
+.Btn{
+  height:210px;
+  width: 100%;
+  padding:15px;
+}
+.button{
+  border:1px solid;
+  margin:3px;
+  padding:3px;
+  font-weight:light;
+  font-size:8px;
+  background-color: white;
+}
+.Highlight{
+    margin-bottom:40px;
+}
+}

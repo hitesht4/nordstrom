@@ -1,0 +1,116 @@
+.Card{
+  display:flex;
+  flex-direction: column;
+  gap:20px;
+  padding:10px;
+  box-shadow: rgba(0, 0, 0, 0.1) 0px 0px 5px 0px, rgba(0, 0, 0, 0.1) 0px 0px 1px 0px;
+}
+.Card img{
+    width:100%;
+    height:100%;
+}
+.Card img :hover{
+    width:100%;
+    height:100%;
+}
+.Information>h6{
+    font-weight:bolder;
+}
+.Card div{
+    text-align: start;
+}
+.Imagediv{
+    width:100%;
+    height:70%;
+}
+.Information h5{
+    font-size: 17px;
+}
+.Card1{
+  display:flex;
+  flex-direction: column;
+  gap:20px;
+  padding:10px;
+  box-shadow: rgba(0, 0, 0, 0.1) 0px 0px 5px 0px, rgba(0, 0, 0, 0.1) 0px 0px 1px 0px;
+}
+.dflex{
+    text-decoration: line-through;
+}
+.Part {
+  position: relative;
+}
+.Part .after {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  display: none;
+  color: #fff;
+}
+.Part:hover .after {
+  display: block;
+  display: flex;
+  flex-direction: column;
+  justify-content:end;
+  align-items: center;
+  cursor: pointer; 
+}
+.Click{
+    padding:17px;
+    width:100%;
+    border:1px solid lightgrey;
+    background: transparent;
+    background-color: white;
+}
+.Click:hover{
+    border:1px solid;
+}
+@media only screen and (min-width:501px)  and (max-width:990px){
+.Card{
+  gap:10px; 
+}
+.Imagediv{
+    width:100%;
+    height:60%;
+}
+.Information{
+    font-size:13px;
+}
+.Information h5{
+    font-size:14px;
+}
+.Click{
+    padding:8px;
+    width:100%;
+}
+.Information>h6{
+    font-weight:bolder;
+    font-size: 13px;
+}
+
+
+}
+@media only screen and (min-width:0px)  and (max-width:500px){
+.Card{
+  gap:10px; 
+}
+.Imagediv{
+    width:100%;
+    height:60%;
+}
+.Information{
+    font-size:13px;
+}
+.Information h5{
+    font-size:14px;
+}
+.Click{
+    padding:5px;
+    width:100%;
+}
+.Information>h6{
+    font-weight:bolder;
+    font-size: 13px;
+}
+}
