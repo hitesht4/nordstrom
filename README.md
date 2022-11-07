@@ -22,7 +22,7 @@ Nordstrom, Inc. is an American luxury department store chain. Founded in 1901 by
 
 To run this application on your local system, execute the following commands on your terminal/command line:
 
-<code>git clone https://github.com/deekshant57/Nordstrom.git</code>
+<code>git clone https://github.com/hitesht4/nordstrom.git</code>
 
 - run npm install
 - npm start
